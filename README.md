@@ -1,4 +1,4 @@
-<h1>Snakes and Ladders game made with C++ using POO<h1>
+<h1>Snakes and Ladders game made with C++ using POO</h1>
   <p> This program was made using classes and utilizing concepts and characteristics of POO such as </p>
     <ul>
       <li>Polimorfism</li>
